@@ -1,3 +1,3 @@
 FROM ubuntu:latest
 RUN apt-get update
-RUN apt-get install mc less pwd -y
+RUN apt-get install mc less -y
